@@ -1,3 +1,3 @@
 # palautusrepositorio
 
-[palautusrepositorio](https://github.com/mikko-os-salminen/ohtuvarasto)
+[ohtuvarasto](https://github.com/mikko-os-salminen/ohtuvarasto)
