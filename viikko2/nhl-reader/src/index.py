@@ -1,7 +1,7 @@
-from player import Player
+# from player import Player
 
-def main():
-    pass
+# def main():
+#     pass
 
-if __name__ == "__main__":
-    main()
+# if __name__ == "__main__":
+#     main()
